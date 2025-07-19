@@ -20,8 +20,7 @@ async function getSongs(folder) {
             "Skating On the Uppers - National Sweetheart.mp3"
         ],
         "sad_songs": [
-            "Sad Track 1.mp3",
-            "Sad Track 2.mp3"
+             "My Way - NEFFEX.mp3"
         ]
     };
 
@@ -93,7 +92,7 @@ function displayAlbums() {
                     <path d="M8.5 8L16.5 12L8.5 16.5Z" fill="black" />
                 </svg>
             </div>
-            <img src="/${album.folder}/cover.jpg" alt="">
+            <img src="/cover.jpg" alt="">
             <h3 class="artist-name">${album.title}</h3>
             <p class="artist-name">${album.description}</p>
         </div>`;
