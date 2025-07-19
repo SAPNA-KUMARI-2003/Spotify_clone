@@ -23,8 +23,8 @@ async function getSongs(folder) {
             "Skating On the Uppers - National Sweetheart.mp3"
         ],
         "sad_songs": [
-            "Sad Track 1.mp3",
-            "Sad Track 2.mp3"
+             "My Way - NEFFEX.mp3",
+            "Skating On the Uppers - National Sweetheart.mp3"
         ]
     };
 
